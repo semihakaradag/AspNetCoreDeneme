@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebApplication1.yj6fvmmoe8.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WebApplication1.hcynm2pd5v.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
@@ -255,6 +255,10 @@
     {
       "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png",
+      "PackagePath": "staticwebassets\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

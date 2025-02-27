@@ -1,0 +1,77 @@
+﻿
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+@model SignUpViewModel
+
+@section Scripts
+{
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h2>Kullanıcı Kayıt Sayfası</h2>
+
+
+        @if (TempData["SuccessMessage"]!=null)
+        {
+            <div class="alert alert-info" role="alert">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <div asp-validation-summary=ModelOnly class="alert alert-danger" role="alert">
+
+        </div>
+
+
+<form asp-controller="Home" asp-action="SignUp" method="post">
+    <div class="row-mb-3">
+        <label asp-for="UserName" class="form-label fw-light">Kullanıcı Adı:</label>
+        <input asp-for="UserName" class="form-control input-custom" required />
+        <span class="text-danger d-block mt-1" asp-validation-for="UserName"></span>
+    </div>
+
+    <div class="row-mb-3">
+        <label asp-for="Email" class="form-label fw-light">Email:</label>
+        <input asp-for="Email" type="email" class="form-control input-custom" required />
+        <span class="text-danger d-block mt-1" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="row-mb-3">
+        <label asp-for="Phone" class="form-label fw-light">Telefon:</label>
+        <input asp-for="Phone" type="tel" class="form-control input-custom" required />
+        <span class="text-danger d-block mt-1" asp-validation-for="Phone"></span>
+    </div>
+
+    <div class="row-mb-3">
+        <label asp-for="Password" class="form-label fw-light">Şifre:</label>
+        <div class="input-group">
+            <input asp-for="Password" type="password" class="form-control input-custom" id="password" required />
+            <button type="button" class="toggle-password btn btn-outline-secondary" data-target="password">
+                <i class="bi bi-eye"></i>
+            </button>
+        </div>
+        <span class="text-danger d-block mt-1" asp-validation-for="Password"></span>
+    </div>
+
+    <div class="row-mb-3">
+        <label asp-for="ConfirmPassword" class="form-label fw-light">Şifre Tekrar:</label>
+        <div class="input-group">
+            <input asp-for="ConfirmPassword" type="password" class="form-control input-custom" id="confirmPassword" required />
+            <button type="button" class="toggle-password btn btn-outline-secondary" data-target="confirmPassword">
+                <i class="bi bi-eye"></i>
+            </button>
+        </div>
+        <span class="text-danger d-block mt-1" asp-validation-for="ConfirmPassword"></span>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn custom-btn">Kayıt Ol</button>
+    </div>
+</form>
+</div>
+</div>
+
