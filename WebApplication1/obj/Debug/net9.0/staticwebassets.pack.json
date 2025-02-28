@@ -257,8 +257,28 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\0f8513e1-9ed8-47d2-ad95-561a316d77b2.jpg",
+      "PackagePath": "staticwebassets\\userpictures\\0f8513e1-9ed8-47d2-ad95-561a316d77b2.jpg"
+    },
+    {
       "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png",
       "PackagePath": "staticwebassets\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png"
+    },
+    {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\a7641475-92b1-4e35-a52a-f025eb1af15e.jpg",
+      "PackagePath": "staticwebassets\\userpictures\\a7641475-92b1-4e35-a52a-f025eb1af15e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\a9b2616c-ce01-4837-aae0-e997814b44f2.jpg",
+      "PackagePath": "staticwebassets\\userpictures\\a9b2616c-ce01-4837-aae0-e997814b44f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\cff71acb-5f5a-4fee-ae21-3dfe0fa55afa.png",
+      "PackagePath": "staticwebassets\\userpictures\\cff71acb-5f5a-4fee-ae21-3dfe0fa55afa.png"
+    },
+    {
+      "Id": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\f9a55538-67fe-4759-b835-506cd6fda0da.jpg",
+      "PackagePath": "staticwebassets\\userpictures\\f9a55538-67fe-4759-b835-506cd6fda0da.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

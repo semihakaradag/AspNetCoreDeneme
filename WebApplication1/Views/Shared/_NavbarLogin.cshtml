@@ -6,9 +6,10 @@
                 @User.Identity.Name
             </a>
             <ul class="dropdown-menu">
+                <li><a class="dropdown-item" asp-controller="Member" asp-action="UserEdit">Kullanıcı Güncelle</a></li>
                 <li><a class="dropdown-item" asp-route-returnurl="/Home/Index" asp-controller="Member" asp-action="logout">Çıkış Yap</a></li>
                 
-                <li><a class="dropdown-item"  asp-controller="Member" asp-action="UserEdit">Kullanıcı Güncelle</a></li>
+                
       
             </ul>
         </li>

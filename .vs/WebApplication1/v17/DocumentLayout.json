@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\semih\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\member\\useredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\member\\useredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\models\\assignroletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\models\\assignroletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\extensions\\modelstataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\extensions\\modelstataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:07:36.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModelStataExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Extensions\\ModelStataExtensions.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Extensions\\ModelStataExtensions.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Extensions\\ModelStataExtensions.cs",
-              "RelativeToolTip": "WebApplication1\\Extensions\\ModelStataExtensions.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA2wBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:54:55.842Z",
+              "DocumentIndex": 1,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:03:03.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\UserEdit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Member\\UserEdit.cshtml",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\UserEdit.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Member\\UserEdit.cshtml",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T07:56:29.183Z",
+              "Title": "AssignRoleToUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:51:02.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserEditViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ViewModels\\UserEditViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\UserEditViewModel.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ViewModels\\UserEditViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\UserEditViewModel.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:30:29.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_NavbarLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Title": "AssignRoleToUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T23:09:34.762Z",
+              "WhenOpened": "2025-02-28T21:50:27.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T23:24:10.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T23:00:11.558Z",
+              "WhenOpened": "2025-02-27T18:19:25.019Z",
               "EditorCaption": ""
             }
           ]

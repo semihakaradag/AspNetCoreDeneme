@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using WebApplication1.Areas.Admin.Models;
 
 namespace WebApplication1.Models
 {
@@ -9,6 +10,8 @@ namespace WebApplication1.Models
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
         }
+       
 
     }
+
 }
