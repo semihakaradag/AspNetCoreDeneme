@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using WebApplication1.Models;
 using WebApplication1.Extensions;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.Authentication;
+using AspNetCoreIdentityApp.Web.ClaimProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +16,31 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlCon"));
 });
 
+builder.Services.AddAuthorization(options =>
+{
+
+options.AddPolicy("AnkaraPolicy", policy =>
+{
+    policy.RequireClaim("city", "ankara");
+
+
+});
+});
+
+
 builder.Services.AddIdentityWithExt();
 
+// Kullanýcý rollerine özel yetkilendirme kurallarýný belirleyelim
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("admin"));
+    options.AddPolicy("RequireRoleAction", policy => policy.RequireRole("role-acion"));
+});
+
 builder.Services.AddSingleton<IFileProvider>(new PhysicalFileProvider(Directory.GetCurrentDirectory()));
+builder.Services.AddScoped<IClaimsTransformation, UserClaimProvider>();
+
+
 
 builder.Services.ConfigureApplicationCookie(opt =>
 {
@@ -27,9 +51,13 @@ builder.Services.ConfigureApplicationCookie(opt =>
     opt.Cookie = cookieBuilder;
     opt.ExpireTimeSpan = TimeSpan.FromDays(60);
     opt.SlidingExpiration = true;
+    opt.AccessDeniedPath = new PathString("/Member/AccessDenied"); // Yetkisiz eriþimler için yönlendirme
 }
 );
 
+// Dosya saðlayýcý ekleyelim
+builder.Services.AddSingleton<IFileProvider>(
+    new PhysicalFileProvider(Directory.GetCurrentDirectory()));
 
 var app = builder.Build();
 
@@ -42,6 +70,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthentication();

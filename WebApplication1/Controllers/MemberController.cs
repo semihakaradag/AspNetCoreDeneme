@@ -28,10 +28,22 @@ namespace WebApplication1.Areas.Admin.Controllers
         }
 
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+
+            var currentUser = (await _userManager.FindByNameAsync(User.Identity!.Name!))!;
+
+            var userViewModel = new UserViewModel
+            {
+                Email = currentUser.Email,
+                UserName = currentUser.UserName,
+                PhoneNumber = currentUser.PhoneNumber,
+                PictureUrl = currentUser.Picture
+            };
+
+            return View(userViewModel);
         }
+
 
         public async Task Logout()
         {
@@ -117,8 +129,35 @@ namespace WebApplication1.Areas.Admin.Controllers
             return View(userEditViewModel);
         }
 
+        public IActionResult AccessDenied(string ReturnUrl)
+        {
+            string message = string.Empty;
 
+            message = "Bu sayfayı görmeye yetkiniz yoktur. Yetki almak için yöneticiniz ile görüşebilirsiniz.";
 
+            ViewBag.message= message;
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Claims()
+        {
+            var userClaimList = User.Claims.Select(x => new ClaimViewModel()
+            {
+                Issuer = x.Issuer,
+                Type = x.Type,
+                Value = x.Value
+            }).ToList();
+
+            return View(userClaimList);
+
+        }
+        [Authorize(Policy ="AnkaraPolicy")]
+        [HttpGet]
+        public IActionResult AnkaraPage()
+        {
+            return View();
+        }
 
     }
 }

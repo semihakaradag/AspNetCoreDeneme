@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
 
 namespace WebApplication1.Areas.Admin.Controllers
 {
-
+    
     [Area("Admin")]
     public class RolesController : Controller
     {
@@ -22,6 +22,7 @@ namespace WebApplication1.Areas.Admin.Controllers
             _userManager = userManager;
             _roleManager = roleManager;
         }
+        [Authorize(Roles = "role-action")]
         public async Task<IActionResult> Index()
         {
             var roles = await _roleManager.Roles.Select(x => new RoleViewModel()
@@ -32,11 +33,14 @@ namespace WebApplication1.Areas.Admin.Controllers
 
             return View(roles);
         }
+
+        [Authorize(Roles = "role-action")]
         public IActionResult RoleCreate()
         {
             return View();
         }
 
+        [Authorize(Roles = "role-action")]
         [HttpPost]
         public async Task<IActionResult> RoleCreate(RoleCreateViewModel request)
         {
@@ -54,6 +58,7 @@ namespace WebApplication1.Areas.Admin.Controllers
             return RedirectToAction(nameof(RolesController.Index));
         }
 
+        [Authorize(Roles = "role-action")]
         public async Task<IActionResult> RoleUpdate(string id)
         {
             var roleToUpdate = await _roleManager.FindByIdAsync(id);
@@ -64,6 +69,7 @@ namespace WebApplication1.Areas.Admin.Controllers
 
             return View(new RoleUpdateViewModel() { Id = roleToUpdate.Id, Name = roleToUpdate!.Name! });
         }
+        [Authorize(Roles = "role-action")]
         [HttpPost]
         public async Task<IActionResult> RoleUpdate(RoleUpdateViewModel request)
         {
@@ -80,6 +86,8 @@ namespace WebApplication1.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(RolesController.Index));
         }
+
+        [Authorize(Roles = "role-action")]
         public async Task<IActionResult> RoleDelete(string id)
         {
             var roleToDelete = await _roleManager.FindByIdAsync(id);

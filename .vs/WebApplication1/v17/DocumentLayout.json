@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\semih\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\member\\ankarapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\member\\ankarapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\models\\assignroletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\models\\assignroletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\claimprovider\\userclaimprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\claimprovider\\userclaimprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\member\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\member\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|c:\\users\\semih\\source\\repos\\webapplication1\\webapplication1\\views\\member\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDF0CB3-353D-4433-AF89-761952DAFB1F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\member\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserList.cshtml",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AnkaraPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\AnkaraPage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Member\\AnkaraPage.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\AnkaraPage.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Member\\AnkaraPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T23:03:03.26Z",
+              "WhenOpened": "2025-03-01T22:10:09.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:05:05.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserClaimProvider.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ClaimProvider\\UserClaimProvider.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ClaimProvider\\UserClaimProvider.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ClaimProvider\\UserClaimProvider.cs",
+              "RelativeToolTip": "WebApplication1\\ClaimProvider\\UserClaimProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:45:52.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:55:24.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AssignRoleToUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Models\\AssignRoleToUserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T21:51:02.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssignRoleToUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
-              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T21:50:27.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
               "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAywHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T18:19:25.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:49:40.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwJwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:56:16.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_NavbarLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_NavbarLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T12:30:55.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Claims.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\Claims.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Member\\Claims.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\Claims.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Member\\Claims.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:13:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ViewModels\\ClaimViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\ClaimViewModel.cs",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\ViewModels\\ClaimViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\ClaimViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:14:25.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Member\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Member\\AccessDenied.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Member\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T01:02:03.13Z",
               "EditorCaption": ""
             }
           ]
