@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9Lh9299mZPDRzMPA1/PM68bRba6vBDahVqSB+cLr5yc=",
+  "Hash": "BW0tcThIlBejOK5FezAg06SWhT4sxQd4mIhFzcEbcZU=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -2747,6 +2747,27 @@
       "OriginalItemSpec": "wwwroot\\userpictures\\0f8513e1-9ed8-47d2-ad95-561a316d77b2.jpg"
     },
     {
+      "Identity": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\38803ce5-63b1-4228-99f1-458223d40619.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "userpictures/38803ce5-63b1-4228-99f1-458223d40619#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxbqxu2jxx",
+      "Integrity": "EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userpictures\\38803ce5-63b1-4228-99f1-458223d40619.jpg"
+    },
+    {
       "Identity": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -2766,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png"
+    },
+    {
+      "Identity": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\6e303670-616e-469f-98f8-6c5f4010d3ec.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "userpictures/6e303670-616e-469f-98f8-6c5f4010d3ec#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxbqxu2jxx",
+      "Integrity": "EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userpictures\\6e303670-616e-469f-98f8-6c5f4010d3ec.jpg"
     },
     {
       "Identity": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\a7641475-92b1-4e35-a52a-f025eb1af15e.jpg",
@@ -21494,6 +21536,88 @@
       ]
     },
     {
+      "Route": "userpictures/38803ce5-63b1-4228-99f1-458223d40619.jpg",
+      "AssetFile": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\38803ce5-63b1-4228-99f1-458223d40619.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8="
+        }
+      ]
+    },
+    {
+      "Route": "userpictures/38803ce5-63b1-4228-99f1-458223d40619.qxbqxu2jxx.jpg",
+      "AssetFile": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\38803ce5-63b1-4228-99f1-458223d40619.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxbqxu2jxx"
+        },
+        {
+          "Name": "label",
+          "Value": "userpictures/38803ce5-63b1-4228-99f1-458223d40619.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8="
+        }
+      ]
+    },
+    {
       "Route": "userpictures/3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.o234856jro.png",
       "AssetFile": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\3e7fd4b3-5d69-48ed-be4d-02af7536f9ee.png",
       "Selectors": [],
@@ -21572,6 +21696,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kESp3sBvYhYb5k6zM7bPdIAOtuYGyMBUOe6TanIvfRQ="
+        }
+      ]
+    },
+    {
+      "Route": "userpictures/6e303670-616e-469f-98f8-6c5f4010d3ec.jpg",
+      "AssetFile": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\6e303670-616e-469f-98f8-6c5f4010d3ec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:10:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8="
+        }
+      ]
+    },
+    {
+      "Route": "userpictures/6e303670-616e-469f-98f8-6c5f4010d3ec.qxbqxu2jxx.jpg",
+      "AssetFile": "C:\\Users\\semih\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\userpictures\\6e303670-616e-469f-98f8-6c5f4010d3ec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 22:10:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxbqxu2jxx"
+        },
+        {
+          "Name": "label",
+          "Value": "userpictures/6e303670-616e-469f-98f8-6c5f4010d3ec.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmgOHt7weFae0RutTdLBdwlexxpAfT2A2aRHmWBLYO8="
         }
       ]
     },
